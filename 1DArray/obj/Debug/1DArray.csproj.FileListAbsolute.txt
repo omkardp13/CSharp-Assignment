@@ -1,0 +1,10 @@
+E:\.NET\1DArray\1DArray\bin\Debug\1DArray.exe.config
+E:\.NET\1DArray\1DArray\bin\Debug\1DArray.exe
+E:\.NET\1DArray\1DArray\bin\Debug\1DArray.pdb
+E:\.NET\1DArray\1DArray\obj\Debug\1DArray.csprojAssemblyReference.cache
+E:\.NET\1DArray\1DArray\obj\Debug\_1DArray.Form1.resources
+E:\.NET\1DArray\1DArray\obj\Debug\_1DArray.Properties.Resources.resources
+E:\.NET\1DArray\1DArray\obj\Debug\1DArray.csproj.GenerateResource.cache
+E:\.NET\1DArray\1DArray\obj\Debug\1DArray.csproj.CoreCompileInputs.cache
+E:\.NET\1DArray\1DArray\obj\Debug\1DArray.exe
+E:\.NET\1DArray\1DArray\obj\Debug\1DArray.pdb
